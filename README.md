@@ -81,6 +81,5 @@ We welcome contributions to the AENE project! Please see our [CONTRIBUTING.md](C
 
 ## License
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-```
 
-This structure should provide a clear overview of the AENE project with instructions for both the Scroll and Maschain components.
+
